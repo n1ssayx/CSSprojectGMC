@@ -1,0 +1,52 @@
+nav{
+    background-color: rgb(32, 231, 115);
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    display: inline-flexbox;
+    
+}
+body{
+    background-color: #000000;
+    text-align: center;
+    font-family:  'Roboto' , sans-serif; 
+}
+
+h3{
+    color: green;
+    font-size:xx-large ;
+}
+
+
+.Istanbul{
+    margin-top: 20px;
+}
+.podcast{
+    margin-top: 20px;
+}
+.Tunisia{
+    margin-top: 20px;
+}
+.Assassin{
+    margin-top: 20px;
+}
+button{
+    background-color: black;
+    color: green;
+    padding: 7px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: green;
+    color: #000000;
+  }
+
+  p{
+    color: white;
+  }
+  iframe{
+    border-radius: 9px;
+  }
+  
